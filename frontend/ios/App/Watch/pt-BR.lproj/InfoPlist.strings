@@ -1,0 +1,4 @@
+/* FitLife Pro on the Apple Watch, pt-BR: Info.plist. Written by ios/ci/watch-strings.mjs. */
+
+"NSHealthShareUsageDescription" = "O FitLife Pro mostra sua frequência cardíaca durante o treino e ao lado de cada série.";
+"NSHealthUpdateUsageDescription" = "O FitLife Pro salva seus treinos no Apple Saúde se você ativar.";

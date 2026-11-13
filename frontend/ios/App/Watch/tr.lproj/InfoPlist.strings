@@ -1,0 +1,4 @@
+/* FitLife Pro on the Apple Watch, tr: Info.plist. Written by ios/ci/watch-strings.mjs. */
+
+"NSHealthShareUsageDescription" = "FitLife Pro antrenman sırasında ve her setin yanında nabzını gösterir.";
+"NSHealthUpdateUsageDescription" = "Açarsan FitLife Pro antrenmanlarını Apple Sağlık’a kaydeder.";

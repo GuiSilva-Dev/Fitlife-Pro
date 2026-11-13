@@ -1,0 +1,4 @@
+/* FitLife Pro on the Apple Watch, th: Info.plist. Written by ios/ci/watch-strings.mjs. */
+
+"NSHealthShareUsageDescription" = "FitLife Pro แสดงอัตราการเต้นของหัวใจระหว่างฝึกและข้างแต่ละเซ็ต";
+"NSHealthUpdateUsageDescription" = "FitLife Pro บันทึกการฝึกลงใน Apple Health เมื่อคุณเปิดใช้";

@@ -1,0 +1,4 @@
+/* FitLife Pro on the Apple Watch, pl: Info.plist. Written by ios/ci/watch-strings.mjs. */
+
+"NSHealthShareUsageDescription" = "FitLife Pro pokazuje tętno podczas treningu i przy każdej serii.";
+"NSHealthUpdateUsageDescription" = "FitLife Pro zapisuje treningi w Apple Zdrowie, jeśli to włączysz.";

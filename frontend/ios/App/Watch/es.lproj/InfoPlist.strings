@@ -1,0 +1,4 @@
+/* FitLife Pro on the Apple Watch, es: Info.plist. Written by ios/ci/watch-strings.mjs. */
+
+"NSHealthShareUsageDescription" = "FitLife Pro muestra tu pulso durante el entreno y junto a cada serie.";
+"NSHealthUpdateUsageDescription" = "FitLife Pro guarda tus entrenos en Apple Salud si lo activas.";

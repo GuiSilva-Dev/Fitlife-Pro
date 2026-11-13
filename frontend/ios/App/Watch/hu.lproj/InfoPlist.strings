@@ -1,0 +1,4 @@
+/* FitLife Pro on the Apple Watch, hu: Info.plist. Written by ios/ci/watch-strings.mjs. */
+
+"NSHealthShareUsageDescription" = "A FitLife Pro edzés közben és minden sorozat mellett mutatja a pulzusodat.";
+"NSHealthUpdateUsageDescription" = "A FitLife Pro az Apple Egészség appba menti az edzéseidet, ha bekapcsolod.";
